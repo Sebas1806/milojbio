@@ -23,7 +23,7 @@ Sitio web tributo y biográfico dedicado a **Milo J** (Camilo Joaquín Villarrue
 ```text
 rubrica desarrollo/
 │
-├── components/          # Fragmentos de HTML reutilizables (ej. header.html, footer.html)
+├── components/          # Fragmentos de HTML reutilizables
 ├── images/              # Fotografías e imágenes de la biografía y la galería
 ├── js/                  # Scripts de Javascript (main.js)
 ├── logos/               # Logotipos e íconos utilizados en la web

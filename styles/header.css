@@ -1,0 +1,35 @@
+h1,
+h2,
+h4,
+.logo-text {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+.logo-text {
+    font-size: 1.8rem;
+    color: #ffffff;
+    letter-spacing: 2px;
+}
+
+.menu-navegacion {
+    transition: background-color 0.4s ease;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.nav-custom-link {
+    color: #cccccc !important;
+    font-weight: 600;
+    margin-left: 20px;
+    transition: color 0.3s;
+}
+
+.nav-custom-link:hover {
+    color: var(--color-naranja) !important;
+    border-bottom: 2px solid var(--color-naranja);
+}
+
+.custom-toggler {
+    border: 1px solid var(--color-naranja);
+}

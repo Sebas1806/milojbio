@@ -1,0 +1,23 @@
+.footer-custom {
+    background-color: var(--color-fondo-mas-oscuro);
+    border-top: 1px solid #222;
+}
+
+.footer-links a {
+    transition: all 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: var(--color-naranja) !important;
+    padding-left: 8px;
+}
+
+.social-icon img {
+    height: 35px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+.social-icon:hover img {
+    transform: translateY(-5px) scale(1.1);
+}
